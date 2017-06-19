@@ -15,8 +15,6 @@
 #' \code{\link{make_filename}} to understand how the file name is created
 #' \code{\link{fars_read}} to understand how the file is read in
 #'
-#' @examples
-#' fars_map_state(2, 2016)
 #'
 #' @importFrom dplyr filter
 #' @importFrom maps map
