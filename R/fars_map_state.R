@@ -21,6 +21,8 @@
 #' @importFrom graphics points
 #'
 #' @export
+#' @usage data(data1)
+#' data(data1)
 
 fars_map_state <- function(state.num, year) {
   filename <- make_filename(year)

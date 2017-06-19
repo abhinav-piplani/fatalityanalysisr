@@ -16,7 +16,8 @@
 #'   If the files do not exist an error will be returned stating the invalid year(s).
 #'
 #' @seealso \code{\link{make_filename}} for naming convention
-#'
+#' @usage data(data1)
+#' data(data1)
 #'
 #' @importFrom dplyr mutate
 #' @importFrom dplyr select

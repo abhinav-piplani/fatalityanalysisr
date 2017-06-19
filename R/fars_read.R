@@ -8,7 +8,8 @@
 #'   a data frame tbl.  If it does not exist an error message will be returned.
 #'
 
-#'
+#' @usage data(data1)
+#' data(data1)
 #' @importFrom readr read_csv
 #' @importFrom dplyr tbl_df
 #'

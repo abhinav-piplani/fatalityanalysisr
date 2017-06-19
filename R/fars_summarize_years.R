@@ -15,7 +15,8 @@
 #' @importFrom dplyr group_by
 #' @importFrom dplyr summarize
 #' @importFrom tidyr spread
-#'
+#' @usage data(data1)
+#' data(data1)
 #' @export
 
 fars_summarize_years <- function(years) {
