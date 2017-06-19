@@ -8,8 +8,6 @@
 #'   For example, if 2017 is provided as the year the name that will be returned
 #'   will be "accident_2017.csv.bz2".
 #'
-#' @examples
-#' make_filename(2017)
 #'
 #' @export
 

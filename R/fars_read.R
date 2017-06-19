@@ -7,8 +7,7 @@
 #'   filename provided. If the file exists, it will be imported and returned as
 #'   a data frame tbl.  If it does not exist an error message will be returned.
 #'
-#' @examples
-#' fars_read("data/my_fars_data.csv")
+
 #'
 #' @importFrom readr read_csv
 #' @importFrom dplyr tbl_df

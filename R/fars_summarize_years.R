@@ -10,8 +10,6 @@
 #'
 #' @seealso \code{\link{fars_read_years}} to understand how the file name is created
 #'
-#' @examples
-#' fars_summarize_years(2015:2016)
 #'
 #' @importFrom dplyr bind_rows
 #' @importFrom dplyr group_by

@@ -17,8 +17,6 @@
 #'
 #' @seealso \code{\link{make_filename}} for naming convention
 #'
-#' @examples
-#' fars_read_years(2015:2016)
 #'
 #' @importFrom dplyr mutate
 #' @importFrom dplyr select
